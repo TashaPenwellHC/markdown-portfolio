@@ -1,1 +1,1 @@
-![image of Friends pivot] (/Pair Finder - Final)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
